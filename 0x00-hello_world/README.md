@@ -6,3 +6,4 @@ The 4-puts.c file prints exactly "Programming is like building a multilingual pu
 The 5-printf.c file prints exactly with proper grammar, but the outcome is a piece of art, followed by a new line using printf function.
 The 6-size.c file prints the size of various types on the computer it is compiled and run on.
 The 100-intel script generates the assembly code (Intel syntax) of a C code and save it in an output file.
+The 101-quote.c file prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error without using printf or puts functions.
