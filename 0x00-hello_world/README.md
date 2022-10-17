@@ -3,3 +3,4 @@ The 1-compiler script  compiles a C file but does not link and names the output 
 The 2-assembler script generates the assembly code of a C code and save it in an output file.
 The 3-name script compiles a C file and creates an executable named cisfun.
 The 4-puts.c file prints exactly "Programming is like building a multilingual puzzle, followed by a new line using puts.
+The 5-printf.c file prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line using printf function.
