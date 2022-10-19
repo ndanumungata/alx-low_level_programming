@@ -8,7 +8,7 @@
   *
   *Description: Assigns random number to n every time
   *
-  *Return : 0 
+  *Return: 0 
   */
 
 int main(void)
