@@ -21,6 +21,7 @@ int main(void)
 		(c <= 'f')
 		{
 			putchar(c);
+			c++;
 		}
 	return (0);
 }
