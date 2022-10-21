@@ -5,3 +5,4 @@ The 3-islower.c file checks for lowercase character.
 The 4-isalpha.c file checks for alphabetic character.
 The 5-sign.c file prints the sign of a number.
 The 6-abs.c file omputes the absolute value of an integer.
+The 7-print_last_digit.c  file prints the last digit of a number.
