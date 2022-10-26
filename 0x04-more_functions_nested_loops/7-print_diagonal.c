@@ -4,7 +4,7 @@
   * print_diagnol - draws a diagnol line
   * @n: number of '\' to be printed
   */
-void print_diagnol(int n)
+void print_diagonal(int n)
 {
 	int x, y;
 
